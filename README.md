@@ -1,8 +1,8 @@
 ### ENTER YOUR NAME : ANU RADHA N
 ### ENTER YOUR REGISTER NO : 212223230018
 ### EX. NO.5
-### DATE:12/09/2024
-<H1 ALIGN =CENTER Implementation of Kalman Filter </H1>
+### DATE: 12/09/2024
+<H1 ALIGN =CENTER> Implementation of Kalman Filter </H1>
   
 ## Aim:
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
